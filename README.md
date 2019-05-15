@@ -7,7 +7,7 @@
 #### [移动端播放器](http://47.102.220.59:5000/#/recommend)
 
 ### 三.Gif图
-![gif](http://recordit.co/dRiPGB8Az5)
+![gif](http://g.recordit.co/dRiPGB8Az5.gif)
 
 ### 四.部分截图
 ![1](https://github.com/qianduanzhou/music/blob/master/static/rec.PNG)
