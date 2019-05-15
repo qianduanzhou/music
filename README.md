@@ -6,6 +6,11 @@
 ### 上线地址
 #### [移动端播放器](http://47.102.220.59:5000/#/recommend)
 
-#### 部分截图
+### 部分截图
+![1](https://github.com/qianduanzhou/music/blob/master/static/rec.PNG)
+![2](https://github.com/qianduanzhou/music/blob/master/static/rank.PNG)
+![3](https://github.com/qianduanzhou/music/blob/master/static/singer.PNG)
+![4](https://github.com/qianduanzhou/music/blob/master/static/musica.PNG)
+![5](https://github.com/qianduanzhou/music/blob/master/static/music.PNG)
 
 
