@@ -1,21 +1,11 @@
-# music
+## 这是根据一个视频教程做的vue移动端播放器
+### 安装
+1. 在文件夹下npm install 安装依赖包
+2. 通过npm run dev启动即可
 
-> A Vue.js project
+### 上线地址
+#### [移动端播放器](http://47.102.220.59:5000/#/recommend)
 
-## Build Setup
+#### 部分截图
 
-``` bash
-# install dependencies
-npm install
 
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
